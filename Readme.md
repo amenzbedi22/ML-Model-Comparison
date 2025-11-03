@@ -70,5 +70,6 @@ Each model’s performance is evaluated and visualized to help identify which al
 ✨ Author 
 
 
-Created by AMEN ZBEDI 
+Created by AMEN ZBEDI
+
 If you find this helpful, please ⭐ the repository! 
