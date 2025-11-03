@@ -45,10 +45,10 @@ The notebook **`project.ipynb`** includes:
 1. Clone this repository:
    ```bash
    git clone https://github.com/amenzbedi22/ML-Model-Comparison.git
-   git clone https://github.com/your-username/your-repo-name.git
 2. Navigate to the project directory:
   ```bash
   cd ML-Model-Comparison
+    bash```
 3. Install the dependencies:
    ```bash
   pip install -r requirements.txt
