@@ -46,19 +46,20 @@ The notebook **`project.ipynb`** includes:
    ```bash
    git clone https://github.com/amenzbedi22/ML-Model-Comparison.git
 2. Navigate to the project directory:
-  ```bash
-  cd ML-Model-Comparison
+   ```bash
+   cd ML-Model-Comparison 
 3. Install the dependencies:
    ```bash
-  pip install -r requirements.txt
+   pip install -r requirements.txt
 ##🚀 Usage
 Run the Jupyter notebook to explore and compare the models:
-   ```bash
-  jupyter notebook project.ipynb
-  Then execute the cells sequentially to
-  Load and preprocess data
-  Train and evaluate multiple classifiers
-  Visualize results interactively
+    ```bash
+    
+    jupyter notebook project.ipynb
+Then execute the cells sequentially to
+Load and preprocess data
+Train and evaluate multiple classifiers
+Visualize results interactively
 ##📊 Results
   Each model’s performance is evaluated and visualized to help identify which algorithm performs best for the given dataset.
 ✨ Author 
