@@ -57,12 +57,15 @@ The notebook **`project.ipynb`** includes:
 Run the Jupyter notebook to explore and compare the models:
     
     jupyter notebook project.ipynb
-Then execute the cells sequentially to
-Load and preprocess data
+Then execute the cells sequentially to Load and preprocess data
 Train and evaluate multiple classifiers
 Visualize results interactively
+
+
 ##📊 Results
   Each model’s performance is evaluated and visualized to help identify which algorithm performs best for the given dataset.
+
+  
 ✨ Author 
 Created by AMEN ZBEDI 
 If you find this helpful, please ⭐ the repository! 
