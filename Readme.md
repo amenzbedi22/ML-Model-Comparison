@@ -52,8 +52,9 @@ The notebook **`project.ipynb`** includes:
    ```bash
    pip install -r requirements.txt
 ##🚀 Usage
+
+
 Run the Jupyter notebook to explore and compare the models:
-    ```bash
     
     jupyter notebook project.ipynb
 Then execute the cells sequentially to
