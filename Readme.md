@@ -48,7 +48,6 @@ The notebook **`project.ipynb`** includes:
 2. Navigate to the project directory:
   ```bash
   cd ML-Model-Comparison
-    bash```
 3. Install the dependencies:
    ```bash
   pip install -r requirements.txt
